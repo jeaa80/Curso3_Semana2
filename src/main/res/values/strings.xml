@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TareaSemana2</string>
+    <string name="telefono">telefono</string>
+    <string name="descripcion">descripcion</string>
+    <string name="email">email</string>
+    <string name="nombre">nombre</string>
+    <string name="t_telefono">Telefono: </string>
+    <string name="t_descripcion">Descripcion: </string>
+    <string name="t_email">email: </string>
+    <string name="t_nombre">Nombre: </string>
+    <string name="boton_descripcion">Siguiente</string>
+    <string name="report_planned_date">report_planned_date</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="tv_titulo">Datos para Registro</string>
+    <string name="hola">HOLA</string>
+    <string name="t_canlendario">Fecha de Nacimiento: </string>
+
+    <string name="default_email">123@gmail.com</string>
+    <string name="defaultTelefono">3332220938</string>
+    <string name="defaultFechaNac">10/10/2010</string>
+    <string name="defaultNombre">Jesús Acedo</string>
+
+    <string name="tv_titulo2">Datos Guardados</string>
+    <string name="t_nombre2">Nombre Guardado</string>
+    <string name="valor_fechanac">Fecha Guardada</string>
+    <string name="t_telefono2">Telefono Guardado</string>
+    <string name="t_email2">email.guardado@gmail.com</string>
+
+    <string name="t_descripcion2">Descripción Guardada</string>
+    <string name="boton_editar">Editar Datos</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+</resources>

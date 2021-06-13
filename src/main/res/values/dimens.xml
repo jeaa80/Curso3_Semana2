@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="telefono_contacto">20sp</dimen>
+    <dimen name="margin_left">20dp</dimen>
+    <dimen name="descripcion_contacto">20sp</dimen>
+    <dimen name="email_contacto">20sp</dimen>
+    <dimen name="nombre_contacto">20sp</dimen>
+    <dimen name="top">10dp</dimen>
+    <dimen name="nombre_guardado">30sp</dimen>
+    <dimen name="boton_text">20sp</dimen>
+    <dimen name="titulo">25sp</dimen>
+    <dimen name="padding_button">120dp</dimen>
+
+</resources>
